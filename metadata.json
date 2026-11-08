@@ -1,0 +1,6 @@
+{
+  "name": "DevOS - Personal Developer Universe",
+  "description": "Futuristic developer command center with 3D holographic planet, AI assistant, DSA practice, coding studio, task tracker, and career intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
